@@ -7,6 +7,7 @@
 </head>
 <body>
 <<h1 align="center"> Data Mobil</h1>
+<a align="center" href="formtambahmobil.php">Tambah Mobil</a>
 <table border="1" align="center">
     <tr>
         <td>id</td>
@@ -24,6 +25,7 @@
         <td>$data[Merek]</td>
         <td>$data[Tipe]</td>
         <td>$data[Platno]</td>
+        <td>edit</td>
         </tr>";
 
     }
